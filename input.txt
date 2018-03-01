@@ -1,0 +1,9 @@
+4
+3
+a b c 
+2
+e f
+5
+f q r g s
+2
+o p
